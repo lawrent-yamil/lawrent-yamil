@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lawrent
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning French
+- 🌱 I’m currently learning French and English
 - 💞️ I’m looking to collaborate on i don't know
 - 📫 How to reach me lawrentvoli@gmail.com
 
