@@ -8,7 +8,7 @@ Every day I learn something new, I like every day because I learn something new.
 
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [lawrent.jimenes@gmail.com](mailto:lawrent.jimenes@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React and Bootstrap
 * ⚡  Nobody knows but... I secretly love TypeScript
 
 <a href="https://www.twitter.com/nova_superior_" target="_blank" rel="noreferrer"><img
