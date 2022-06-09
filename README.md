@@ -18,13 +18,7 @@ src="https://img.shields.io/github/followers/novasuperior?logo=github&style=for-
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,flask,bootstrap)](https://skillicons.dev)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,flask,bootstrap,mongodb,express,react,nodejs)](https://skillicons.dev)
 
 ### Socials
 
