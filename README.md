@@ -30,8 +30,8 @@ src="https://img.shields.io/github/followers/novasuperior?logo=github&style=for-
 
 ### Github
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novasuperior&" alt="kendall-camacho" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novasuperior&" alt="novasuperior" /></p>
 
 ### Badges
 
-<a href="https://github.com/novasuperior" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novasuperior&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center"><a href="https://github.com/novasuperior" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novasuperior&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
