@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novasuperior&label=Profile%20views&color=0e75b6&style=flat" alt="novasuperior" /> </p>
 
-Every day I learn something new, I like every day because I learn something new.
+I wake up every day to learn something new
 
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [lawrent.jimenes@gmail.com](mailto:lawrent.jimenes@gmail.com)
