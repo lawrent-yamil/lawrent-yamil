@@ -3,6 +3,7 @@ Hi 👋 My name is Lawrent
 
 Full-Stack Developer
 --------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=novasuperior&label=Profile%20views&color=0e75b6&style=flat" alt="novasuperior" /> </p>
 
 Every day I learn something new, I like every day because I learn something new.
 
