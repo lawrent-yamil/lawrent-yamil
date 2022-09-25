@@ -9,7 +9,7 @@ I wake up every day to learn something new
 
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [lawrent.jimenes@gmail.com](mailto:lawrent.jimenes@gmail.com)
-* 🧠  I'm learning Golang
+* 🧠  I'm learning how to learn
 * ⚡  Nobody knows but... I secretly love TypeScript
 
 <a href="https://www.twitter.com/nova_superior_" target="_blank" rel="noreferrer"><img
