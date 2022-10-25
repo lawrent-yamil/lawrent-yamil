@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/novasuperior?logo=github&style=for-
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,js,html,css,sass,py,flask,mysql,mongodb,express,react,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,js,html,css,sass,py,flask,mysql,mongodb,express,react,angular,nodejs,git)](https://skillicons.dev)
 
 ### Other Skills
 
