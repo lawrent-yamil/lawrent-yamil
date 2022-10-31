@@ -14,7 +14,7 @@ I wake up every day to learn something new
 
 <a href="https://www.twitter.com/nova_superior_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nova_superior_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
-/></a><a href="https://www.github.com/novasuperior" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/lawrent-yamil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/novasuperior?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ### Skills
