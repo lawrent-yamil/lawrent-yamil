@@ -12,11 +12,6 @@ I wake up every day to learn something new
 * 🧠  I'm learning how to learn
 * ⚡  Nobody knows but... I secretly love TypeScript
 
-<a href="https://www.twitter.com/nova_superior_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/nova_superior_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
-/></a><a href="https://www.github.com/lawrent-yamil" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/novasuperior?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
-
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=fastapi,js,html,css,sass,py,flask,mysql,mongodb,express,react,angular,nodejs,git)](https://skillicons.dev)
