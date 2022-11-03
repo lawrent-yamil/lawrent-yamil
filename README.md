@@ -9,7 +9,7 @@ I wake up every day to learn something new
 
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [lawrent.jimenes@gmail.com](mailto:lawrent.jimenes@gmail.com)
-* 🧠  I'm learning how to learn
+* 🧠  I'm learning Rust Language
 * ⚡  Nobody knows but... I secretly love TypeScript
 
 ### Skills
