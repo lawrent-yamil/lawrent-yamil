@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer** · TypeScript · Next.js · NestJS · Node.js · Python
 
-5+ years designing, building, and shipping scalable web applications and enterprise integrations — cloud and on-premise.
+6+ years designing, building, and shipping scalable web applications and enterprise integrations — cloud and on-premise.
 Currently focused on modern TypeScript full-stack development with clean architecture and TDD.
 
 📍 San José, Costa Rica
